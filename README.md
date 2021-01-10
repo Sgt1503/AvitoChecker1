@@ -1,6 +1,5 @@
 # AvitoChecker1
 Для того чтобы запустить проект потребуется:
-ADB https://developer.android.com/studio/command-line/adb
 Android Studio + Android SDK https://developer.android.com/studio
 Дальше можно использовать либо эмулятор встроенный в Android Studio - AVD, не самый быстрый вариант зато сразу готовый мост ADB + иногда APK авито не устанавливается с первого раза (В полне возможно потому что у меня только 8 гб оперативки)
 Либо реальное устройство https://you--hands-ru.turbopages.org/you-hands.ru/s/2019/11/08/kak-vklyuchit-i-polzovatsya-adb/
@@ -8,6 +7,8 @@ Android Studio + Android SDK https://developer.android.com/studio
 После установки Android Studio проверить PATH
 Рекомендую запускать через NOX
 (Его подключение к ADB https://www.bignox.com/blog/how-to-connect-android-studio-with-nox-app-player-for-android-development-and-debug/)
+Установка APK на Nox https://ibb.co/n73S7G9
+Ссылка на apk https://yadi.sk/d/SxdXJc56q1m9Uw
 Запустить Android Studio настроить первый запуск и выбрать 
 https://ibb.co/wQqbLLL
 Склонировать репозиторий и ждать
